@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: obzor-i-reyting-kazino.github.io
+Sitemap: https://obzor-i-reyting-kazino.github.io/sitemap.xml
